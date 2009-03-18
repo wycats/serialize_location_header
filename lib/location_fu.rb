@@ -1,0 +1,2 @@
+module LocationFu
+end
